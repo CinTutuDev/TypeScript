@@ -13,3 +13,7 @@ Vanilla
 ```
 TypeScript
 ```
+* Levantar la app de vite 
+```
+npm run dev
+```
